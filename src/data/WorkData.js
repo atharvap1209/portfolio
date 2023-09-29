@@ -13,13 +13,13 @@ export const Work = [
   },
   {
     id: 2,
-    name: "Job listing website",
+    name: "Wibe-studio",
     description:
-      "A Job listing website build in ReactJS. With searching and filtering functionalities.",
-    tags: ["react", "sass"],
+      "A beautiful landing page for a Fashion Studio using React, GSAP and framer-motion",
+    tags: ["react", "gsap", "framer-motion"],
 
-    demo: "http://react-job-listing-website.codebucks27.vercel.app/",
-    github: "https://github.com/codebucks27/react-job-listing-website",
+    demo: "https://wibe-studio-mbptjytm6-atharvap1209.vercel.app/",
+    github: "https://github.com/atharvap1209/wibe-studio",
   },
   {
     id: 3,
@@ -33,8 +33,9 @@ export const Work = [
   },
   {
     id: 4,
-    name: "Running a docker container with express.js",
-    description:"Created a docker container to sharpen my understanding of DevOps and Ran an Express.js basic setup, developed dockerfiles for staging and production environments.",
+    name: "Docker-express",
+    description:
+      "Created a docker container to sharpen my understanding of DevOps and Ran an Express.js basic setup, developed dockerfiles for staging and production environments.",
     tags: ["express.js", "docker"],
 
     demo: "",
