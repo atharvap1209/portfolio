@@ -112,7 +112,7 @@ const Contact = () => {
               style={{ color: "inherit" }}
               target="_blank"
               href={
-                "https://drive.google.com/file/d/14kSgdPQg4p_5pchux5zPRwWzCCtEu3XH/view?usp=sharing"
+                "https://drive.google.com/file/d/1ugJwRAhQWbcZgLDKzLoB6CmNM5p41f2r/view?usp=sharing"
               }
             >
               My Resume
